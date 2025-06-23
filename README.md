@@ -1,1 +1,3 @@
 # doremi-automation
+Current Checkpoint 2 Pipeline:
+    Run extractor.py to extract the appropriate contact information for each student in the excel file. Then run send_sms.py to send a text notification to parents that let them know that their invoice is ready in their email. Finally, run send_email.py to send the invoice attachment to parents via email. For now, invoices are still manually screenshotted from the main file, but the sending process has been automated.
