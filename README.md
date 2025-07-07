@@ -16,11 +16,6 @@ As of Checkpoint 3, the project has successfully transitioned from an Excel-base
 - Integrate SMS and email functionality to distribute PDF invoices automatically.
 - (Optional) Develop a lightweight schedule viewer for staff.
 
-**Supporting Evidence:**  
-- [Student Management Script](student_management.py)  
-- [Sample Invoices](invoices/)  
-- [Database File](students.db) (viewable with SQLite tools like DB Browser for SQLite)
-
 ## How to Use `student_management.py`
 - Run student_management.py using any IDE
 - Use the "Add Student" button to add students to the database. Once added, a "students.db" file will be created. This file can be viewed using a simple viewer such as DB Browser.
